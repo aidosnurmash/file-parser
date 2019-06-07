@@ -1,0 +1,12 @@
+# Pycharm
+.idea/*
+
+# Basics
+*.py[cod]
+__pycache__
+
+# Logs
+*.log
+
+# Data file
+*.las
